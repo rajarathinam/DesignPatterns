@@ -1,0 +1,3 @@
+[submodule "helloword"]
+	path = helloword
+	url = https://github.com/rajarathinam/helloword.git
